@@ -4955,6 +4955,8 @@ var versionA = $.ajax({
 }).responseText;
 
 var vAppJs = JSON.parse(versionA);
+vAppJs.rUrl=rUrl;
+vAppJs.zId=zId;
 
 // load serverApp.js from cache
 
