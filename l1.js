@@ -3001,8 +3001,8 @@ this['DIFF_EQUAL'] = DIFF_EQUAL;
 
 // #2 ..
 
-if(typeof firebase != 'undefined' && firebase != undefined && appObj.fireConfig != undefined){
-	firebase.initializeApp(appObj.fireConfig);
+if(typeof firebase != 'undefined' && firebase != undefined && zObj.fireConfig != undefined){
+	firebase.initializeApp(zObj.fireConfig);
 
 
 	const messaging = firebase.messaging();
