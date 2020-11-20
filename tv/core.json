@@ -1,0 +1,72 @@
+{
+    "logo": "https://sample-videos.com/img/Sample-png-image-500kb.png",
+    "splash": "https://sample-videos.com/img/Sample-png-image-500kb.png",
+    "background": "https://sample-videos.com/img/Sample-png-image-500kb.png",
+    "videoUrls": [
+        {
+            "jo": "id0001",
+            "name": "a1",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "image": "https://sample-videos.com/gif/3.gif"
+        },
+        {
+            "jo": "id0001",
+            "name": "a1",
+            "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+            "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
+        }
+    ],
+    "level1": [
+        {
+            "jo": "w0001",
+            "name": "ABC Topic",
+            "image": "https://sample-videos.com/img/Sample-png-image-500kb.png",
+            "level2": [
+                {
+                    "jo": "w0001",
+                    "type": "webview",
+                    "name": "Home",
+                    "webview": "https://www.okayg.com/",
+                    "image": ""
+                },
+                {
+                    "jo": "w0002",
+                    "type": "live",
+                    "name": "OkayG",
+                    "url": "https://www.youtube.com/channel/UChRptRlxUeD_iiELi8F8G9w",
+                    "image": ""
+                },
+                {
+                    "jo": "w0003",
+                    "type": "youtubeAdWebview",
+                    "name": "ok ",
+                    "webview": "https://www.okayg.com/",
+                    "url": "https://www.youtube.com/channel/UChRptRlxUeD_iiELi8F8G9w",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "jo": "w0002",
+            "name": "XYZ Topic",
+            "image": "https://sample-videos.com/img/Sample-png-image-500kb.png",
+            "level2": [
+                {
+                    "jo": "w0002",
+                    "type": "live",
+                    "name": "OkayG",
+                    "url": "https://www.youtube.com/channel/UChRptRlxUeD_iiELi8F8G9w",
+                    "image": ""
+                },
+                {
+                    "jo": "w0003",
+                    "type": "youtubeAdWebview",
+                    "name": "ok ",
+                    "webview": "https://www.okayg.com/",
+                    "url": "https://www.youtube.com/channel/UChRptRlxUeD_iiELi8F8G9w",
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}
