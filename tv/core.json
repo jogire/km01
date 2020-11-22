@@ -33,7 +33,7 @@
                     "jo": "w0002",
                     "type": "live",
                     "name": "OkayG",
-                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w&autoplay=1",
                     "channelId":"UChRptRlxUeD_iiELi8F8G9w",
                     "image": ""
                 },
@@ -42,7 +42,7 @@
                     "type": "youtubeAdWebview",
                     "name": "ok ",
                     "webview": "https://www.okayg.com/",
-                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w&autoplay=1",
                     "channelId":"UChRptRlxUeD_iiELi8F8G9w",
                     "image": ""
                 }
@@ -57,7 +57,7 @@
                     "jo": "w0002",
                     "type": "live",
                     "name": "OkayG",
-                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w&autoplay=1",
                     "channelId":"UChRptRlxUeD_iiELi8F8G9w",
                     "image": ""
                 },
@@ -66,7 +66,7 @@
                     "type": "youtubeAdWebview",
                     "name": "ok ",
                     "webview": "https://www.okayg.com/",
-                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w&autoplay=1",
                     "channelId":"UChRptRlxUeD_iiELi8F8G9w",
                     "image": ""
                 }
