@@ -15,20 +15,20 @@
             },
             {
                 "jo": "id0002",
-                "name": "a1",
-                "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+                "name": "a2",
+                "url": "http://techslides.com/demos/sample-videos/small.webm",
                 "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
             },
             {
                 "jo": "id0003",
-                "name": "a1",
-                "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+                "name": "a3",
+                "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
                 "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
             },
             {
                 "jo": "id0004",
-                "name": "a1",
-                "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+                "name": "a4",
+                "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
                 "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
             }
         },
@@ -38,25 +38,25 @@
             "videoUrls": [
             {
                 "jo": "id0011",
-                "name": "a1",
+                "name": "b1",
                 "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
                 "image": "https://sample-videos.com/gif/3.gif"
             },
             {
                 "jo": "id0012",
-                "name": "a1",
+                "name": "b2",
                 "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
                 "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
             },
             {
                 "jo": "id0013",
-                "name": "a1",
+                "name": "b3",
                 "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
                 "image": "https://sample-videos.com/gif/3.gif"
             },
             {
                 "jo": "id0014",
-                "name": "a1",
+                "name": "b4",
                 "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
                 "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
             }
