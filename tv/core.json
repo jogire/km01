@@ -11,7 +11,7 @@
                 "jo": "id0001",
                 "name": "a1",
                 "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
-                "image": "https://sample-videos.com/gif/3.gif"
+                "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpgf"
             },
             {
                 "jo": "id0002",
@@ -23,13 +23,13 @@
                 "jo": "id0003",
                 "name": "a3",
                 "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-                "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
+                "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
             },
             {
                 "jo": "id0004",
                 "name": "a4",
                 "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-                "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
+                "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg"
             }
         },
         {
