@@ -31,11 +31,12 @@
                 "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
                 "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg"
             }
-        },
-        {
-            "jo": "idcat0002",
-            "name":"category2",
-            "videoUrls": [
+        ]
+    },
+    {
+        "jo": "idcat0002",
+        "name":"category2",
+        "videoUrls": [
             {
                 "jo": "id0011",
                 "name": "b1",
@@ -60,7 +61,9 @@
                 "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
                 "image": "https://sample-videos.com/img/Sample-png-image-200kb.png"
             }
-        }
+        ]
+    }
+
     ],
     "level1": [
         {
