@@ -336,6 +336,21 @@
                     "name": "ok 5",
                     "webview": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w&autoplay=1",
                     "image": ""
+                },
+                {
+                    "jo": "w0007",
+                    "type": "webview",
+                    "name": "youtube as webview ...6",
+                    "webview": "https://www.youtube.com/watch?v=PO_nldzEWAc",
+                    "image": ""
+                },
+                {
+                    "jo": "w0008",
+                    "type": "youtube",
+                    "name": "youtube id ... 7", 
+                    "url": "https://www.youtube.com/watch?v=PO_nldzEWAc",
+                    "youtubeId": "PO_nldzEWAc",
+                    "image": ""
                 }
             ]
         },
