@@ -349,14 +349,6 @@
                     "name": "youtube as embed ...7",
                     "url": "https://www.youtube.com/embed/PO_nldzEWAc?autoplay=1",
                     "image": ""
-                },
-                {
-                    "jo": "w0008",
-                    "type": "youtube",
-                    "name": "youtube id ... 8", 
-                    "url": "https://www.youtube.com/watch?v=PO_nldzEWAc",
-                    "youtubeId": "PO_nldzEWAc",
-                    "image": ""
                 }
             ]
         },
