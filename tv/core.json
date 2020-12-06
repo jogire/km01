@@ -345,9 +345,9 @@
                 },
                 {
                     "jo": "w0017",
-                    "type": "webview",
+                    "type": "live",
                     "name": "youtube as embed ...7",
-                    "webview": "https://www.youtube.com/embed/PO_nldzEWAc?autoplay=1",
+                    "url": "https://www.youtube.com/embed/PO_nldzEWAc?autoplay=1",
                     "image": ""
                 },
                 {
