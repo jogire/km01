@@ -2,6 +2,14 @@
     "logo": "https://km01.okayg.com/tv/asset/tvLogo.jpeg",
     "splash": "https://sample-videos.com/img/Sample-png-image-500kb.png",
     "background": "https://sample-videos.com/img/Sample-png-image-500kb.png",
+    "defaultChannel":{
+        "jo": "k0002",
+        "type": "live",
+        "name": "OkayG 2",
+        "url": "https://www.youtube.com/embed/live_stream?channel=UChRptRlxUeD_iiELi8F8G9w&autoplay=1",
+        "channelId": "UChRptRlxUeD_iiELi8F8G9w",
+        "image": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+    },
     "videoCategory": [
         {
             "jo": "idcat0001",
