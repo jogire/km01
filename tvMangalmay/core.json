@@ -17,8 +17,14 @@
             "videoUrls": [
                 {
                     "jo": "id40001",
-                    "name": "Asharamayan Path",
+                    "name": "Saraswati Path",
                     "url": "http://c.asharambapu.com/alarm/yoga/7.mp4",
+                    "image": "https://km01.okayg.com/tvMangalmay/asset/launcher.jpg"
+                }, 
+                {
+                    "jo": "id40002",
+                    "name": "Satasang",
+                    "url": "http://c.asharambapu.com/alarm/yoga/6.mp4",
                     "image": "https://km01.okayg.com/tvMangalmay/asset/launcher.jpg"
                 } 
             ]
@@ -29,8 +35,8 @@
             "videoUrls": [
                 {
                     "jo": "id70011",
-                    "name": "b1",
-                    "url": "http://c.asharambapu.com/alarm/yoga/7.mp4",
+                    "name": "सम रहो ",
+                    "url": "https://c.asharambapu.com/alarm/yoga/6.mp4",
                     "image": "https://km01.okayg.com/tvMangalmay/asset/launcher.jpg"
                 } 
             ]
