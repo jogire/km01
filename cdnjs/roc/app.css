@@ -243,7 +243,8 @@ a {
 	transition: all .3s ease-out
 }
 
-@media screen and (min-width:1025px) {
+/* EARLIER : 1025px */
+@media screen and (min-width:4025px) {
 	.wrapper.toggled:not(.sidebar-hovered) .sidebar-wrapper .sidebar-header .logo-text {
 		display: none
 	}
@@ -2399,8 +2400,8 @@ input.search-control-2::placeholder {
 	}
 
 }
-
-@media screen and (max-width:1024px) {
+/* EARLIER : 1024px */
+@media screen and (max-width:4024px) {
 	.topbar {
 		left: 0!important
 	}
