@@ -577,7 +577,9 @@ export default  {
         ace.require("ace/ext/language_tools");
         // var editor = ace.edit("editor");
         this.editor.setOptions({
-            enableBasicAutocompletion: true
+            enableBasicAutocompletion: true,
+            enableSnippets: true,
+            // enableLiveAutocompletion: false
         });
       }catch(e){
         console.log(e);
