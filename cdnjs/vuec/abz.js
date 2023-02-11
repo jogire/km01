@@ -1,7 +1,5 @@
-
+// v1.2
 // use as   import {ab} from '/kc/ab/kjgkbrwqbhed/1'; 'ab':ab, 
-
-
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify.min.js"
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-html.min.js"
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-css.min.js" 
@@ -575,6 +573,15 @@ export default  {
           _this.beautify(_this.editor);
         }
       });
+      try{
+        ace.require("ace/ext/language_tools");
+        // var editor = ace.edit("editor");
+        this.editor.setOptions({
+            enableBasicAutocompletion: true
+        });
+      }catch(e){
+        console.log(e);
+      }
 
       this.start();
 
