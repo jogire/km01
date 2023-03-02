@@ -1,10 +1,10 @@
-// v1.2
+// v1.3
 // use as   import {ab} from '/kc/ab/kjgkbrwqbhed/1'; 'ab':ab, 
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify.min.js"
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-html.min.js"
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-css.min.js" 
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.8.1/src-min-noconflict/ace.min.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.8.1/src-min-noconflict/ext-language_tools.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict/ace.min.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict/ext-language_tools.js';
 // help="onhover"
 
 const VALS = {
@@ -72,9 +72,9 @@ function toBoolOrNum(value) {
   return 'boolean' === typeof result ? result : toNum(value);
 }
 
-window.ace.config.set('basePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.8.1/src-min-noconflict');
-window.ace.config.set('modePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.8.1/src-min-noconflict');
-window.ace.config.set('themePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.8.1/src-min-noconflict');
+window.ace.config.set('basePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict');
+window.ace.config.set('modePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict');
+window.ace.config.set('themePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict');
 
 // font , wrap, folding , mode 
 export default  {
