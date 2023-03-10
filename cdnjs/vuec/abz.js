@@ -1,10 +1,41 @@
-// v1.3
+// v1.4
 // use as   import {ab} from '/kc/ab/kjgkbrwqbhed/1'; 'ab':ab, 
-import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.7/beautify.min.js"
-import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.7/beautify-html.min.js"
-import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.7/beautify-css.min.js" 
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict/ace.min.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict/ext-language_tools.js';
+import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify.min.js"
+import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-html.min.js"
+import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-css.min.js" 
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ace.min.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-language_tools.js';
+
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-code_lens.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-elastic_tabstops_lite.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-emmet.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-error_marker.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-hardwrap.js';
+import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-keybinding_menu.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
+ 
+  
+ /*
+ ext-linking.js
+ ext-modelist.js
+ ext-options.js
+ ext-prompt.js
+ ext-rtl.js
+ ext-searchbox.js
+ ext-settings_menu.js
+ ext-spellcheck.js
+ ext-split.js
+ ext-static_highlight.js
+ ext-statusbar.js 
+ ext-textarea.js	 
+ ext-themelist.js	 
+ ext-whitespace.js
+ */
+ 
 // help="onhover"
 
 const VALS = {
@@ -72,9 +103,9 @@ function toBoolOrNum(value) {
   return 'boolean' === typeof result ? result : toNum(value);
 }
 
-window.ace.config.set('basePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict');
-window.ace.config.set('modePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict');
-window.ace.config.set('themePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.2/src-min-noconflict');
+window.ace.config.set('basePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict');
+window.ace.config.set('modePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict');
+window.ace.config.set('themePath', 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict');
 
 // font , wrap, folding , mode 
 export default  {
