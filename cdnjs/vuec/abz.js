@@ -6,13 +6,14 @@ import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-css.m
 import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ace.min.js';
 import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-language_tools.js';
 
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-code_lens.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-elastic_tabstops_lite.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-emmet.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-error_marker.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-hardwrap.js';
-import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-keybinding_menu.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-code_lens.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-elastic_tabstops_lite.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-emmet.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-error_marker.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-hardwrap.js';
+// import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-keybinding_menu.js';
+
 // import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
 // import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
 // import 'https://cdn.jsdelivr.net/npm/ace-builds@1.15.3/src-min-noconflict/ext-beautify.js';
