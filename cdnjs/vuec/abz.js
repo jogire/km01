@@ -1,4 +1,4 @@
-// v1.4
+// v1.7
 // use as   import {ab} from '/kc/ab/kjgkbrwqbhed/1'; 'ab':ab, 
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify.min.js"
 import "https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.10.0/beautify-html.min.js"
