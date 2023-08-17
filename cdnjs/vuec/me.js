@@ -4,7 +4,7 @@
 */
 // import * as monaco from "https://cdn.jsdelivr.net/npm/monaco-editor@0.41.0/min/vs/loader.js";
 var editor = {
-  name: "editor",
+  name: "me",
   components: {},
   props: {},
   template: `
