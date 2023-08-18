@@ -13,8 +13,8 @@ var grid = {
     // ownconfig: Object,
   },
   template: `
-    <div class="ag-theme-alpine" style="height: 300px;">
-      <div ref="myGrid"></div>  
+    <div class="ag-theme-alpine" >
+      <div ref="myGrid"  style="height: 300px;"></div>  
     </div>
     `,
   data() {
