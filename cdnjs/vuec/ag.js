@@ -22,9 +22,9 @@ var grid = {
       gridRef: {},
       gridOptions: {
         columnDefs: [
-          { headerName: "Make", field: "make", sortable: true, filter: true },
-          { headerName: "Model", field: "model", sortable: true, filter: true },
-          { headerName: "Price", field: "price", sortable: true, filter: true },
+          { headerName: "Make", editable: true, field: "make", sortable: true, filter: true },
+          { headerName: "Model", editable: true, field: "model", sortable: true, filter: true },
+          { headerName: "Price", editable: true, field: "price", sortable: true, filter: true },
         ],
         rowData: [
           { make: "Toyota", model: "Celica", price: 35000 },
